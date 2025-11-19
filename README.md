@@ -2,8 +2,8 @@
 
 This repository contains two comprehensive C++ course repositories from HSE (Higher School of Economics) University:
 
-1. **cpp-advanced-hse** - Advanced C++ course covering modern C++ features, concurrency, memory management, and advanced topics
-2. **hse-cpp-problems(hse-Ilia-Krivetskii-quinque)** - Introductory C++ course with fundamental programming problems and algorithms
+1. [**cpp-advanced-hse**](https://github.com/kuinque/hse-Ilia-Krivetskii-quinque) - Advanced C++ course covering modern C++ features, concurrency, memory management, and advanced topics
+2. [**hse-cpp-problems**](https://github.com/kuinque/hse-cpp-problems) - Introductory C++ course with fundamental programming problems and algorithms
 
 ## Repository Overview
 
